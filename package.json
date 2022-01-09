@@ -16,6 +16,7 @@
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
+    "chokidar": "^3.5.2",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
